@@ -1,0 +1,214 @@
+body{
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:purple;
+	front-size: 20px;
+}
+
+
+h1{
+	color:white;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	text-align: center;
+	padding: 15PX;
+	background-color: black;
+}
+
+
+h2{
+	color:#15e63b;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	text-align: center;
+	padding: 15PX;
+}
+
+h3{
+	color:green;
+	front-weight: bold;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	text-align: center;
+	padding: 15PX;
+}
+
+h4{
+	color:#b60644;
+}
+
+h5{
+	color:blueviolet;
+	front-weight: bold;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	text-align: center;
+	padding: 15PX;
+	background-color:pink;
+}
+
+h6{
+	color:orange;
+}
+p{
+	color:black;
+	front-weight: normal;
+	front-size: 25px;
+	line-height: 1.6em;
+	margin: 5px 10px 5px 10 px;
+}
+.c1
+{
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:rosybrown;
+	front-size: 20px;
+	color:gold;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+	border: red 5px solid;
+	padding: 20px;
+	margin: auto;
+	margin-top: 70px;
+}
+.c2
+{
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:white;
+	front-size: 20px;
+	color:gold;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+	border: gold 5px solid;
+	padding: 20px;
+
+
+}
+.c3
+{
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:blue;
+	front-size: 20px;
+	color:darkcyan;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+	border: darkcyan 5px solid;
+	padding: 20px;
+}
+.c4 
+{
+	border: 1px red solid;
+	border-radius: 10px;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:pink;
+	front-size: 20px;
+	color: blue;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+}
+.c4 li{
+	padding-bottom: 5px;
+	border-bottom: red 5px dotted;
+}
+.c4 ul{
+	list-style: none;
+	list-style-image:url('../') ;
+}
+.c5
+{
+	border: 10px red solid;
+	border-radius: 10px;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:grey;
+	front-size: 20px;
+	color: black;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+}
+.c6 
+{
+	border: 1px red solid;
+	border-radius: 15px;
+	front-weight: bold;
+	front-family: arial,heluetica,sans-serif;
+	background-color:yellow;
+	front-size: 20px;
+	color: blue;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+a:visited{
+	color: blue;
+}
+.f1{
+	padding: 20px;
+}
+.fg{
+	padding-bottom: 20px;
+}
+.fg label{
+	display: block;
+}
+.f1 input[type="text"]{
+	padding:10px;
+	width: 100%;
+
+}
+.f1 input[type="submit"]{
+	padding:10px;
+	background-color:grey;
+	color: blue;
+	border: none;
+
+}
+.button{
+	padding:10px;
+	background-color:blue;
+	color: black;
+	border: none;
+}
+.button: hover{
+	background-color:red;
+	color: blue;
+	
+}
+.block{
+	float:right;
+	width:16.6%;
+	border: 3px dotted gold;
+	padding-bottom: 100px;
+	box-sizing: border-box;
+    margin: auto;
+    background-color: orange;
+}
+.container{
+	width: 95%;
+	margin: auto;
+	margin-top:50px;
+
+
+}
